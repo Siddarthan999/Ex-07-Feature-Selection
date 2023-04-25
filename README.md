@@ -178,5 +178,5 @@ Save the data to the file
 
 # RESULT:
 
-Thus, to perform the various feature selection techniques on a dataset and save the data to a file has been successfully performed.
+Thus, to perform the various feature selection techniques on a dataset and save the data to a file has been performed successfully.
 
